@@ -1,0 +1,6 @@
+C:/stack1/build/CMakeFiles/ALL_BUILD.dir
+C:/stack1/build/CMakeFiles/ZERO_CHECK.dir
+C:/stack1/build/include/CMakeFiles/stack.dir
+C:/stack1/build/samples/CMakeFiles/task2.dir
+C:/stack1/build/gtest/CMakeFiles/gtest.dir
+C:/stack1/build/test/CMakeFiles/test_stack.dir
